@@ -20,8 +20,10 @@ and number of tickets opened in the categories administrative and technical
 ## Final Reports
 
 
+<img width="682" alt="Screenshot 2024-04-16 114852" src="https://github.com/Suifengyuan78/Customer-Retention-for-callcenter/assets/167149285/e117451a-819a-4324-af42-2c8402fcf5e7">
 
 
+<img width="652" alt="Screenshot 2024-04-16 114950" src="https://github.com/Suifengyuan78/Customer-Retention-for-callcenter/assets/167149285/b03cd360-9b1b-4d3d-b798-dd0a4d39f0c0">
 
 
 
