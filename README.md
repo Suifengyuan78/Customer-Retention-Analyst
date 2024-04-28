@@ -1,4 +1,7 @@
-#                                Customer-Retention-for-callcenter
+#                                Customer-Retention-Analyst-For-Callcenter
+
+
+#### Company:![image](https://github.com/Suifengyuan78/Call-Centre-Trends-Analysis/assets/167149285/3f109167-380c-474a-9daf-98946a4629db) [Know more about PWC](https://www.pwc.ch/en.html)
 
 ## Task: Create a dashboard for the retention manager reflecting the KPIs. 
 Some inputs
